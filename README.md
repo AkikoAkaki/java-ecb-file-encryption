@@ -1,4 +1,4 @@
-# Java Cipher Project
+# Java ECB(Electronic Codebook) Cipher Project
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
